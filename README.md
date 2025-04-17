@@ -1,0 +1,2 @@
+# BMICalculator
+Calculate the BMI
